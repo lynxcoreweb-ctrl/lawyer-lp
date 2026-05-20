@@ -117,7 +117,7 @@ const problems = [
   { icon: Heart, category: "離婚問題", title: "離婚を考えているが、何から始めればいいかわからない", description: "財産分与、親権、養育費など複雑な問題を一つ一つ丁寧に解決します。" },
   { icon: Home, category: "相続問題", title: "相続の手続きが複雑で困っている", description: "遺産分割、相続税対策、遺言書作成まで幅広くサポートいたします。" },
   { icon: Users, category: "離婚問題", title: "配偶者との話し合いが難航している", description: "第三者として冷静に交渉を行い、円満な解決を目指します。" },
-  { icon: Scale, category: "相続問題", title: "遺産分割で親族と揉めている", description: "法律に基づいた公正な分割案をご提案し、紛争を解決します。" },
+  { icon: Scale, category: "相続問題", title: "遺産分割で親族と揉めている", description: "法律に基づいた公正な分割案をご提案し、争いを解決します。" },
   { icon: FileText, category: "離婚問題", title: "慰謝料や養育費の請求方法がわからない", description: "適正な金額の算出から請求手続きまで完全サポートいたします。" },
   { icon: Shield, category: "相続問題", title: "遺言書の作成について相談したい", description: "法的に有効な遺言書の作成をサポートし、将来のトラブルを防ぎます。" },
 ];
